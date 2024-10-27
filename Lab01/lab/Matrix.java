@@ -1,4 +1,4 @@
-package Lab01;
+package Lab01.lab;
 import java.util.Scanner;
 
 public class Matrix {
